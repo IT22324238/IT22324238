@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malitha parikalpa</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it22324238&label=Profile%20views&color=0e75b6&style=flat" alt="it22324238" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=it22324238&label=Profile%20views&color=0e75b6&style=flat" alt="it22324238" /> </p>
 
 - 🔭 I’m currently working on **Web application**
 
